@@ -14,7 +14,7 @@ But those players are often ball-dominant, controlling the rock for long periods
 
 ![melo](https://user-images.githubusercontent.com/94984667/160941730-449ee133-7e4c-4d42-b53a-93a66d88789f.gif)
 
-Sure passing the ball is great, but to be a great passer, you need to put teammates in position to make plays and score points. Using player tracking numbers in this category, we can look at potential assists, which measures the number of passes a player makes that lead directly to a shot, or adjusted assists, which showcase the number of passes a player makes that are assists, hockey assists or lead to free throws. These categories once more highlight household, ball-dominant names like Paul, Harden, Young, Dejounte Murray and Luka Doncic.
+Sure, passing the ball is great, but to be a great passer, you need to put teammates in position to make plays and score points. Using player tracking numbers in this category, we can look at potential assists, which measures the number of passes a player makes that lead directly to a shot, or adjusted assists, which showcase the number of passes a player makes that are assists, hockey assists or lead to free throws. These categories once more highlight household, ball-dominant names like Paul, Harden, Young, Dejounte Murray and Luka Doncic.
 
 In short, it’s hard to truly separate the league’s most effective passers by looking at one, or two, or three metrics by themselves. There are so many numbers that go into a player’s passing profile — we haven’t even touched on points created, assist to pass percentage, or assist to potential assist ratio. The goal of this project is to look at as many of these numbers as possible to sort out the league’s greatest givers and potentially categorize those givers into different categories of assisting. 
 
@@ -28,27 +28,8 @@ Ideally, I also want to add in a few numbers relating to usage, including touche
 
 [All in all, this is a lot of data](https://docs.google.com/spreadsheets/d/1E78NJZYuh5qPWUcDa0uNp7XtX23HkEYFnBKXRaJTEl0/edit?usp=sharing); and hopefully, this is a lot of useful data. I’m using Google Sheets and NBA.com’s filter tools to clean it all up and make sure it reflects the population I’m trying to showcase.
 
-# Header 1
-## Header 2
-### Header 3
+### Process
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antiarcushorton/ACCAD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Visuals and Interface Design
