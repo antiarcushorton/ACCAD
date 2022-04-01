@@ -30,6 +30,19 @@ Ideally, I also want to add in a few numbers relating to usage, including touche
 
 ### Process
 
+Here are a few resources related to the art of passing in the NBA:
+* [The Art of Passing by Tyler Parker](https://www.theringer.com/nba/2022/2/23/22947563/nba-passing-nikola-jokic-lamelo-ball). A fun look at passing without diving too far into the weeds.
+* [Beyond assists | Passing, shot creation and offensive load by Thinking Basketball](https://www.youtube.com/watch?v=yoLgSWA7n6g). Thinking Basketball has tons of content that dives into this -- both that stats and on-court elegance -- on a very detailed level.
+* [Journeying to find the NBA's best passers by Ethan Fuller](https://www.basketballnews.com/stories/stats-notebook-journeying-to-find-the-nba-best-passers). A good intro to various passing stats and their meanings.
 
+As for my end goal here, I want to be as open as possible about the many different ways people can categorize passing in the NBA. There should not be one, broad takeaway from this visualization. I want to provide plenty of filters and interactions that give the user a chance to dive into the different statistics that define passsing; the user should have the ability to toggle between different stats while being given an understanding of these stats. In a way, I want to tell a story about the evolution of passing in the NBA. I'm not exactly sure what that story will look like, but it should be more than *just* a visualization. The fun, playful storytelling of Parker in his story about the art of passing is the vibe I want to capture.
+
+![jwill](https://user-images.githubusercontent.com/94984667/161308461-9fbd59ce-f18a-4178-b559-5a417d75f5d2.gif)
+
+The way [Jon Bois tells a story with a visual landscape](https://www.youtube.com/watch?v=eaTCyQMyOu8) is something I'd love to attempt to replicate. It's entertaining, energetic and engaging while also telling a story in a way that combines numbers and emotions. Here's a good example of how he lays his projects out.
+
+![jon](https://user-images.githubusercontent.com/94984667/161309000-b4d720c1-3cf7-427a-bded-bcf385f3824d.jpg)
 
 ### Visuals and Interface Design
+
+Here's a little bit of a mood board/color guide for my project:
