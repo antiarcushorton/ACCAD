@@ -46,3 +46,15 @@ The way [Jon Bois tells a story with a visual landscape](https://www.youtube.com
 ### Visuals and Interface Design
 
 Here's a little bit of a mood board/color guide for my project:
+
+![NBA_space](https://user-images.githubusercontent.com/94984667/161452639-e83e698b-ddc1-461a-b5f5-ef2cedc6b9fb.png)
+
+The NBA's primary colors are red, white and blue. To avoid an overly-American theme, I think a black background (similar to Jon Bois) would take the emphasis off these three colors. I also want to mix in a few softer shades of these colors to avoid a too much violent contrast. 
+
+I think as far as a 'mood board' goes, the Jon Bois layout from above is a big inspiration for me, along with the lighthearted, fun theme of the Ringer story I shared above:
+
+![ringer_ex](https://user-images.githubusercontent.com/94984667/161452884-39e77ef6-86e9-4d0f-9926-b9c426e7ef74.png)
+
+Here are some *very* early sketches of some of my initial ideas for this project. I want it to be easy to use and understand while also bringing something new to the table that I maybe didn't have in my first two projects:
+
+*insert sketches here*
