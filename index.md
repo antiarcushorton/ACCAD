@@ -57,4 +57,5 @@ I think as far as a 'mood board' goes, the Jon Bois layout from above is a big i
 
 Here are some *very* early sketches of some of my initial ideas for this project. I want it to be easy to use and understand while also bringing something new to the table that I maybe didn't have in my first two projects:
 
-*insert sketches here*
+![IMG_32D956E91AD6-1](https://user-images.githubusercontent.com/94984667/161773751-41f62828-334e-4580-b351-4eb0d07ab7ec.jpeg)
+
